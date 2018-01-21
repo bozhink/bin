@@ -1,3 +1,5 @@
 #!/bin/bash
+# This is the old command line:
 #xsel | festival --tts --pipe
-xsel | espeak --stdin -s 160 -v en
+# The new command is
+xsel | espeak --stdin
