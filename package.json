@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "npm run snyk-protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "",
   "license": "MIT",
@@ -20,7 +21,7 @@
     "node-inspector": "^1.1.1",
     "stylus": "^0.54.5",
     "typescript": "^2.3.4",
-    "snyk": "^1.69.7"
+    "snyk": "^1.83.0"
   },
   "snyk": true
 }
