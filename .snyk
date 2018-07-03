@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.10.1
+version: v1.12.0
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -39,3 +39,10 @@ patch:
   'npm:request:20160119':
     - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > @google-cloud/common > log-driver > codecov.io > request:
         patched: '2018-02-10T08:16:41.920Z'
+  'npm:lodash:20180130':
+    - node-inspector > biased-opener > browser-launcher2 > plist > xmlbuilder > lodash:
+        patched: '2018-07-03T03:37:35.410Z'
+    - firebase-tools > superstatic > nash > lodash:
+        patched: '2018-07-03T03:37:35.410Z'
+    - firebase-tools > @google-cloud/functions-emulator > cli-table2 > lodash:
+        patched: '2018-07-03T03:37:35.410Z'
