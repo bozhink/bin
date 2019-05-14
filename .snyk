@@ -59,3 +59,36 @@ patch:
         patched: '2019-05-06T07:54:45.243Z'
     - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > gcs-resumable-upload > google-auto-auth > google-auth-library > gcp-metadata > axios:
         patched: '2019-05-06T07:54:45.243Z'
+  'npm:hoek:20180212':
+    - node-inspector > v8-profiler > node-pre-gyp > request > hawk > sntp > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-profiler > node-pre-gyp > hawk > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-debug > node-pre-gyp > hawk > boom > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-profiler > node-pre-gyp > hawk > boom > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-debug > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-profiler > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-debug > node-pre-gyp > request > hawk > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-profiler > node-pre-gyp > request > hawk > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-profiler > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-debug > node-pre-gyp > hawk > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-debug > node-pre-gyp > request > hawk > boom > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-profiler > node-pre-gyp > request > hawk > boom > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-debug > node-pre-gyp > request > hawk > sntp > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-debug > node-pre-gyp > hawk > cryptiles > boom > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-profiler > node-pre-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
+    - node-inspector > v8-debug > node-pre-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2019-04-18T07:54:53.822Z'
