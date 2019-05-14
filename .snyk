@@ -46,6 +46,19 @@ patch:
         patched: '2018-07-03T03:37:35.410Z'
     - firebase-tools > @google-cloud/functions-emulator > cli-table2 > lodash:
         patched: '2018-07-03T03:37:35.410Z'
+  SNYK-JS-AXIOS-174505:
+    - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > @google-cloud/common > google-auto-auth > gcp-metadata > axios:
+        patched: '2019-05-06T07:54:45.243Z'
+    - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > gcs-resumable-upload > google-auto-auth > gcp-metadata > axios:
+        patched: '2019-05-06T07:54:45.243Z'
+    - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > @google-cloud/common > google-auto-auth > google-auth-library > axios:
+        patched: '2019-05-06T07:54:45.243Z'
+    - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > gcs-resumable-upload > google-auto-auth > google-auth-library > axios:
+        patched: '2019-05-06T07:54:45.243Z'
+    - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > @google-cloud/common > google-auto-auth > google-auth-library > gcp-metadata > axios:
+        patched: '2019-05-06T07:54:45.243Z'
+    - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > gcs-resumable-upload > google-auto-auth > google-auth-library > gcp-metadata > axios:
+        patched: '2019-05-06T07:54:45.243Z'
   'npm:hoek:20180212':
     - node-inspector > v8-profiler > node-pre-gyp > request > hawk > sntp > hoek:
         patched: '2019-04-18T07:54:53.822Z'
