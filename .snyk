@@ -48,34 +48,34 @@ patch:
         patched: '2018-07-03T03:37:35.410Z'
   'npm:hoek:20180212':
     - node-inspector > v8-profiler > node-pre-gyp > request > hawk > sntp > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-profiler > node-pre-gyp > hawk > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-debug > node-pre-gyp > hawk > boom > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-profiler > node-pre-gyp > hawk > boom > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-debug > node-pre-gyp > hawk > sntp > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-profiler > node-pre-gyp > hawk > sntp > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-debug > node-pre-gyp > request > hawk > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-profiler > node-pre-gyp > request > hawk > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-profiler > node-pre-gyp > hawk > cryptiles > boom > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-debug > node-pre-gyp > hawk > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-debug > node-pre-gyp > request > hawk > boom > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-profiler > node-pre-gyp > request > hawk > boom > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-debug > node-pre-gyp > request > hawk > sntp > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-debug > node-pre-gyp > hawk > cryptiles > boom > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-profiler > node-pre-gyp > request > hawk > cryptiles > boom > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
     - node-inspector > v8-debug > node-pre-gyp > request > hawk > cryptiles > boom > hoek:
-        patched: '2019-03-30T07:52:32.873Z'
+        patched: '2019-04-18T07:54:53.822Z'
