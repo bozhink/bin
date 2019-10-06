@@ -147,3 +147,8 @@ patch:
         patched: '2019-07-04T07:53:02.829Z'
     - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > @google-cloud/common > google-auto-auth > async > lodash:
         patched: '2019-07-04T07:53:02.829Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-06T07:52:56.739Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-06T07:52:56.739Z'
