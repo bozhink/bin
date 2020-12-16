@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "bower": "^1.8.0",
-    "firebase-tools": "^8.7.0",
+    "firebase-tools": "^9.0.0",
     "http-server": "^0.12.0",
     "iojs": "^1.0.0",
     "live-server": "^1.2.0",
